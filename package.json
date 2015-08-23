@@ -1,6 +1,10 @@
 {
   "jspm": {
     "directories": {},
+    "dependencies": {
+      "baconjs": "npm:baconjs@^0.7.71",
+      "jquery": "github:components/jquery@^2.1.4"
+    },
     "devDependencies": {
       "babel": "npm:babel-core@^5.8.22",
       "babel-runtime": "npm:babel-runtime@^5.8.20",
