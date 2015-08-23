@@ -1,10 +1,6 @@
-<script src="./jspm_packages/system.js"></script>
+<!doctype html>
+<script src="jspm_packages/system.js"></script>
+<script src="config.js"></script>
 <script>
-  // set our baseURL reference path
-  System.config({
-    baseURL: 'app',
-    transpiler: 'babel'
-  });
-
-  System.import('index.js');
+  System.import('lib/main');
 </script>
