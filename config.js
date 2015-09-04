@@ -20,6 +20,7 @@ System.config({
     "core-js": "npm:core-js@1.1.1",
     "jquery": "github:components/jquery@2.1.4",
     "ramda": "npm:ramda@0.17.1",
+    "victor": "npm:victor@1.1.0",
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.3.0"
     },
